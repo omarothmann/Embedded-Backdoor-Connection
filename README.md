@@ -187,5 +187,5 @@ New-Partition -DiskNumber 1 -UseMaximumSize -AssignDriveLetter C| Format-Volume 
 [![Demo](https://i.imgur.com/FG8Ftvg.jpg)](https://youtu.be/TJkEAZb7-so "[Demonstration] Embedded Backdoor Connection via PDF Files | Bawang Ranger")
 
 
-[//]: # (https://shields.io/badge/Chan-%20Jia%20Liang-green?style=for-the-badge&logo=CodeIgniter&logoColor=orange)
-[//]: # (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+# (https://shields.io/badge/Chan-%20Jia%20Liang-green?style=for-the-badge&logo=CodeIgniter&logoColor=orange)
+# (https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
